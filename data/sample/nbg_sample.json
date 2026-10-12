@@ -1,0 +1,11 @@
+{
+  "source": "NBG",
+  "date": "2026-08-27",
+  "rates": [
+    {"code": "USD", "quantity": 1, "rate": 2.7000},
+    {"code": "EUR", "quantity": 1, "rate": 3.1500},
+    {"code": "TRY", "quantity": 1, "rate": 0.0750},
+    {"code": "GBP", "quantity": 1, "rate": 3.6500},
+    {"code": "RUB", "quantity": 100, "rate": 2.9000}
+  ]
+}
