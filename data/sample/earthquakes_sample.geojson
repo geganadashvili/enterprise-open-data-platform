@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EQ001",
+        "magnitude": 3.2,
+        "place": "Near Tbilisi",
+        "time": "2026-08-27T08:30:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.8271, 41.7151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EQ002",
+        "magnitude": 2.8,
+        "place": "Near Rustavi",
+        "time": "2026-08-27T10:15:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.9932, 41.5495]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EQ003",
+        "magnitude": 4.1,
+        "place": "Near Gori",
+        "time": "2026-08-27T12:45:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.1098, 41.9842]
+      }
+    }
+  ]
+}
