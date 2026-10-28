@@ -1,0 +1,16 @@
+2026-10-27 01:28:53,444 | INFO     | __main__ | Starting API request
+2026-10-27 01:28:53,858 | INFO     | __main__ | Successfully retrieved data from the API
+2026-10-27 01:28:53,860 | INFO     | __main__ | Number of posts retrieved: 100
+2026-10-27 20:37:16,804 | INFO     | __main__ | Starting API request
+2026-10-27 20:37:17,171 | INFO     | __main__ | Successfully retrieved data from the API
+2026-10-27 20:37:17,174 | INFO     | __main__ | Number of posts retrieved: 100
+2026-10-27 23:30:51,107 | INFO     | root | data type: <class 'dict'>
+2026-10-27 23:30:51,116 | INFO     | root | Status code: 200
+2026-10-27 23:44:51,992 | INFO     | root | data type: <class 'dict'>
+2026-10-27 23:44:51,995 | INFO     | root | Status code: 200
+2026-10-27 23:45:23,570 | INFO     | root | data type: <class 'dict'>
+2026-10-27 23:45:23,572 | INFO     | root | Status code: 200
+2026-10-28 00:07:16,214 | INFO     | root | data type: <class 'dict'>
+2026-10-28 00:07:16,216 | INFO     | root | Status code: 200
+2026-10-28 00:08:21,140 | INFO     | root | data type: <class 'dict'>
+2026-10-28 00:08:21,141 | INFO     | root | Status code: 200
